@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" fill="none">
+  <defs>
+    <radialGradient id="shadow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#33313a" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#33313a" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="acai" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#b8a5d8" />
+      <stop offset="100%" stop-color="#806a9f" />
+    </linearGradient>
+  </defs>
+
+  <circle cx="450" cy="430" r="300" fill="#e9e8ed" />
+  <ellipse cx="450" cy="460" rx="240" ry="30" fill="#33313a" opacity="0.07" />
+
+  <path d="M230 300 L240 430 Q450 545 660 430 L670 300 Q450 310 230 300" fill="#806a9f" />
+  <path d="M240 300 L250 425 Q450 535 660 425 L670 300 Q450 308 240 300" fill="#735d8f" opacity="0.5" />
+  <ellipse cx="450" cy="300" rx="200" ry="42" fill="url(#acai)" />
+
+  <ellipse cx="450" cy="300" rx="180" ry="30" fill="#b8a5d8" opacity="0.6" />
+
+  <circle cx="375" cy="292" r="17" fill="#f5efe0" />
+  <circle cx="460" cy="308" r="15" fill="#f5efe0" opacity="0.85" />
+  <circle cx="535" cy="298" r="16" fill="#f5efe0" />
+  <circle cx="492" cy="322" r="13" fill="#f5efe0" opacity="0.8" />
+
+  <circle cx="365" cy="278" r="14" fill="#d9534f" />
+  <circle cx="360" cy="274" r="4" fill="#ffffff" opacity="0.7" />
+  <circle cx="510" cy="270" r="13" fill="#d9534f" />
+  <circle cx="506" cy="266" r="3.5" fill="#ffffff" opacity="0.7" />
+
+  <circle cx="545" cy="306" r="11.5" fill="#4a5bd6" />
+  <circle cx="540" cy="302" r="3" fill="#ffffff" opacity="0.6" />
+  <circle cx="335" cy="322" r="10.5" fill="#4a5bd6" />
+  <circle cx="420" cy="335" r="10" fill="#4a5bd6" opacity="0.85" />
+
+  <circle cx="310" cy="300" r="5" fill="#d4a373" />
+  <circle cx="575" cy="315" r="5.5" fill="#d4a373" opacity="0.9" />
+  <circle cx="380" cy="345" r="4.5" fill="#d4a373" />
+  <circle cx="515" cy="340" r="4" fill="#d4a373" opacity="0.85" />
+  <circle cx="445" cy="350" r="4.5" fill="#d4a373" />
+  <circle cx="470" cy="285" r="3.5" fill="#d4a373" opacity="0.9" />
+
+  <circle cx="395" cy="290" r="1.6" fill="#33313a" opacity="0.55" />
+  <circle cx="405" cy="294" r="1.4" fill="#33313a" opacity="0.5" />
+  <circle cx="495" cy="300" r="1.5" fill="#33313a" opacity="0.55" />
+  <circle cx="502" cy="305" r="1.3" fill="#33313a" opacity="0.5" />
+  <circle cx="430" cy="338" r="1.4" fill="#33313a" opacity="0.5" />
+  <circle cx="525" cy="338" r="1.5" fill="#33313a" opacity="0.5" />
+  <circle cx="460" cy="344" r="1.3" fill="#33313a" opacity="0.45" />
+
+  <ellipse cx="450" cy="272" rx="110" ry="6" fill="#ffffff" opacity="0.35" />
+  <path d="M260 300 Q450 310 640 300" stroke="#ffffff" strokeWidth="2" opacity="0.35" />
+</svg>
